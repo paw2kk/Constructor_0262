@@ -10,6 +10,9 @@ mahasiswa ::mahasiswa(){
     cout << "Constructor Terpanggil" << endl; //Definisi constructor
 }
 
-int (){
+int main (){
+    mahasiswa mhs; //Pembuatan Object
+
+    return 0;
 
 }
