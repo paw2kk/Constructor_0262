@@ -13,5 +13,6 @@ mahasiswa ::mahasiswa(int nim, int nama) {
     cout << "Nama   : " << endl;
 }
 int main(){
-
+    mahasiswa mhs(12345, "Abra");
+    return 0;
 }
